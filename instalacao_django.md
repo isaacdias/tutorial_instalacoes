@@ -18,7 +18,7 @@ cd nome_projeto
 ```
 python3 -m venv nome_desejado
 ```
-se der erro, usar o código abaixo:
+> se der erro, usar o código abaixo:
 ```
 sudo apt install python3-venv
 ```
@@ -37,7 +37,7 @@ python3 -m pip install --upgrade pip
 ```
 Django~=2.1.7
 ```
-**lembre-se de verificar a ultima versão oficial do Django**
+**Lembrar de verificar a ultima versão oficial do Django**
 * Agora, execute pip install -r requirements.txt para instalar o Django.
 ```
 pip install -r requirements.txt
