@@ -32,15 +32,13 @@ python3 -m pip install --upgrade pip
 ```
 * Instalando pacotes com requisitos
 
-O arquivo "requirements.txt" guarda as depenências que serão instaladas utilizando o pip install:
-
-Primeiramente, crie um arquivo requirements.txt dentro da pasta do seu projeto
-e adicione o seguinte texto ao arquivo:
+> O arquivo "requirements.txt" guarda as depenências que serão instaladas utilizando o pip install:
+> Primeiramente, crie um arquivo requirements.txt dentro da pasta do seu projeto e adicione o seguinte texto ao arquivo:
 ```
 Django~=2.1.7
 ```
 **lembre-se de verificar a ultima versão oficial do Django**
-Agora, execute pip install -r requirements.txt para instalar o Django.
+* Agora, execute pip install -r requirements.txt para instalar o Django.
 ```
 pip install -r requirements.txt
 ```
